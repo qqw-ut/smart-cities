@@ -24,7 +24,7 @@ tags: Environment, Mobility, Buildings, Energy, InformationSystems, InnovationSy
 <!-- About 100 to 150 word summary of the case study. -->
 
 Smart Kalasatama is a smart city district located in Helsinki, Finland, built on a former harbor area and envisioned as a living lab for urban innovation. With the ambitious goal of giving residents 'one more hour every day' the project integrates smart technologies into everyday life-ranging from energy-efficient buildings and autonomous shuttles to flexible shared spaces and real-time digital services. Developed through agile piloting, co-creation, and integrated digital infrastructure, Kalasatama is a testbed for sustainability, citizen-centered design, and public-private collaboration. The district serves as a model for how cities can align technology, urban planning, and community engagement to shape more livable and climate-resilient futures. 
-![Aerial view of Kalasatama region of Helsinki, Finland](./Smart_Cities/Qu_Qiwei_INFO5455_Final/1024px-Kalasatama_2020-03-06.jpg "Joneikifi CC BY-SA 4.0")
+![Aerial view of Kalasatama region of Helsinki, Finland](./1024px-Kalasatama_2020-03-06.jpg "Joneikifi CC BY-SA 4.0")
 
 ## Goals and Aspirations
 
