@@ -37,7 +37,7 @@ Smart Kalasatama give residents 'one more hour a day' by minimizing time spent o
 Smart Kalasatama serves as a model for sustainable urban development, aligning with Helsinki's carbon-neutral 2035 target. Plans emphasize smart energy grids, renewable power, and efficient infrastructure to cut emissions. By integrating solar energy, electric mobility and green infrastructure, Kalasatama is a 'pioneer for Helsinki's climate targets', showing how digital solutions support a low-carbon lifestyle.
 
 **Foster Innovation through Co-Creation:**  
-Smart Kalasatama was conceived as an urban living lab and innovation platform where city officials, companies, researchers, and residents collaborate. A high-level goal is to support open innovation and get the best out of what new technologies can deliver for city services. This means actively piloting new ideas in a real district, attracting startups and industry to develop smart and sustainable solutions in cooperation with the community. The district's success is measured not just in tech deployment, but in establishing Helsinki as a world-class testbed for smart city solutions.
+Smart Kalasatama was conceived as an urban living lab and innovation platform where city officials, companies, researchers, and residents collaborate. A high-level goal is to support open innovation and get the best out of what new technologies can deliver for city services. This means actively piloting new ideas in a real district, attracting startups and industry to develop smart and sustainable solutions in cooperation with the community. Thus, the district's success is measured not just in tech deployment, but in establishing Helsinki as a world-class testbed for smart city solutions.
 
 
 ## Key Characteristics
@@ -83,7 +83,7 @@ All buildings in Kalasatama are connected to a smart grid combining solar power,
 ![Common Smart Grid Components](./Common_Smart_Grid_Components.jpg "Public domain image by the U.S. Government Accountability Office")
 
 **Flexi Spaces & Smart Shared Amenities:**
-Kalasatama introduced "Flexi Spaces" shared rooms like gyms or meeting spaces in apartment buildings-equipped with smart locks and a mobile booking app. This system allows residents to use facilities across buildings, increasing utilization and reducing the need for redundant space. Developed through agile pilot funding, the platform logs reservations and usage data to help optimize access. It promotes social interaction, reduces costs, and supports sustainability. The initiative shows how tech can activate underused assets and enhance daily convenience for residents.
+Kalasatama introduced "Flexi Spaces" shared rooms like gyms or meeting spaces in apartment buildings-equipped with smart locks and a mobile booking app. This system allows residents to use facilities across buildings, increasing utilization for redundant space. Developed through agile pilot funding, the platform logs reservations and usage data to help optimize access. It promotes social interaction, reduces costs, and supports sustainability. The initiative shows how tech can activate underused assets and enhance daily convenience for residents.
 ![Smart lock, controlled with iPhone](./Smart_Lock.jpg "Creative Commons Attribution 2.0")
 
 **Smart Mobility & Autonomous Shuttles:**
@@ -111,10 +111,10 @@ About one-third of Kalasatama residents have participated in pilots, indicating 
 **Quality of Life Improvements:**
 Kalasatama's concept of giving residents 'one more hour' a day reflects its focus on livability. Integrated services like shared Flexi Spaces, real-time transit apps, and local amenities save time and improve convenience. Residents report smoother daily routines with fewer errands and less need for car ownership. Other Smart solutions like energy dashboards and automated waste systems also contribute to cleaner, more efficient living environments.
 
-**Environmental and Sustainability Impact**
+**Environmental and Sustainability Impact:**
 Smart energy systems and renewable integration have led to measurable energy savings (10-15% in pilot buildings). Automated waste collection reduces emissions, and green infrastructure supports climate resilience. Kalasatama is helping Helsinki advance its 2035 carbon-neutral goal. The neighborhood serves as a testbed for climate-friendly technologies that are being scaled citywide, setting an example for sustainable urban redevelopment.
 
-**Innovation Diffusion and Economic Impact**
+**Innovation Diffusion and Economic Impact:**
 The district's agile piloting model has been adopted across Helsinki and replicated in other Finnish cities. It helped launch startups and attracted international attention to Helsinki;s innovation ecosystem. Kalasatama is now a global smart city reference, hosting delegations and influencing policy. It has also boosted real estate values and local business, demonstrating how smart city projects can drive both innovation and economic development.
 
 ## Open Questions
